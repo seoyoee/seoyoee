@@ -1,4 +1,4 @@
-☁ Seoyoung
+☁ seoyoee's
 
 <a href="https://github.com/seoyoee"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
 <a href="mailto:ryp1006@ewhain.net"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
